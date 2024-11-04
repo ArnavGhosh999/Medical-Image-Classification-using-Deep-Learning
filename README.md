@@ -1,4 +1,4 @@
-# Medical-Image-Classification-using-Deep-Learning
+<h1 align ="center"># Medical-Image-Classification-using-Deep-Learning </h1>
 
 A Deep Learning model designed for early-stage cancer detection through medical image classification.
 
